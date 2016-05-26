@@ -4,9 +4,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Tv Specialist Repository">
-            <info compressed="false">https://raw.githubusercontent.com/jericho-2016/Jericho/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jericho-2016/Jericho/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jericho-2016/Jericho/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/tvspeler/SportStreams/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tvspeler/SportStreams/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tvspeler/SportStreams/master/zips/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
