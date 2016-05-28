@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.SportCenterHD" name="SportCenterHD" version="1.0.1" provider-name="SportCenterHD">
+    <addon id="repository.sportcenterhd" name="SportCenterHD" version="1.0.1" provider-name="SportCenterHD">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="Tv Specialist Repository">
+        <extension point="xbmc.addon.repository" name="SportCenterHD Repository">
             <info compressed="false">https://raw.githubusercontent.com/tvspeler/SportStreams/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/tvspeler/SportStreams/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/tvspeler/SportStreams/master/zips/</datadir>
