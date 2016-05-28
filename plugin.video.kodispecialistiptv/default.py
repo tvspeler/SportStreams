@@ -45,7 +45,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
 NLVBase = 'aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvU0R1RTMxblM='
 sourceSitebvls = 'http://bvls2016.sc'      
 
-addon = xbmcaddon.Addon('plugin.video.kodispecialistiptv')
+addon = xbmcaddon.Addon('plugin.video.sportcenterhd')
 addon_version = addon.getAddonInfo('version')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
