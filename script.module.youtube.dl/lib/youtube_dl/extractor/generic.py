@@ -961,7 +961,7 @@ class GenericIE(InfoExtractor):
                 'id': '50YnY4czr4ms1vJ7yz3xzq0excz_pUMs',
                 'ext': 'mp4',
                 'description': 'VIDEO: Index/Match versus VLOOKUP.',
-                'title': 'This is what separates the Excel masters from the wannabes',
+                'title': 'This is what separates the Excel mains from the wannabes',
             },
             'params': {
                 # m3u8 downloads

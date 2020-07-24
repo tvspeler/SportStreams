@@ -43,7 +43,7 @@ class IGNIE(InfoExtractor):
                         'id': '5ebbd138523268b93c9141af17bec937',
                         'ext': 'mp4',
                         'title': 'GTA 5 Video Review',
-                        'description': 'Rockstar drops the mic on this generation of games. Watch our review of the masterly Grand Theft Auto V.',
+                        'description': 'Rockstar drops the mic on this generation of games. Watch our review of the mainly Grand Theft Auto V.',
                     },
                 },
                 {

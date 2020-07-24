@@ -55,7 +55,7 @@ class NaverIE(InfoExtractor):
         key = m_id.group(2)
         query = compat_urllib_parse.urlencode({'vid': vid, 'inKey': key, })
         query_urls = compat_urllib_parse.urlencode({
-            'masterVid': vid,
+            'mainVid': vid,
             'protocol': 'p2p',
             'inKey': key,
         })

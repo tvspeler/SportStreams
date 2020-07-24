@@ -5,11 +5,11 @@ import re
 from .common import InfoExtractor
 
 
-class WayOfTheMasterIE(InfoExtractor):
-    _VALID_URL = r'https?://www\.wayofthemaster\.com/([^/?#]*/)*(?P<id>[^/?#]+)\.s?html(?:$|[?#])'
+class WayOfTheMainIE(InfoExtractor):
+    _VALID_URL = r'https?://www\.wayofthemain\.com/([^/?#]*/)*(?P<id>[^/?#]+)\.s?html(?:$|[?#])'
 
     _TEST = {
-        'url': 'http://www.wayofthemaster.com/hbks.shtml',
+        'url': 'http://www.wayofthemain.com/hbks.shtml',
         'md5': '5316b57487ada8480606a93cb3d18d24',
         'info_dict': {
             'id': 'hbks',
